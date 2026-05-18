@@ -12,7 +12,7 @@
 
 <h1> Hello! I am Anil Tamang
 Welcome to my cloud Website</h1>
-<p>Kyungdong University,SOuth Korea</p>
+<p>Kyungdong University,South Korea</p>
 
 </body>
 
