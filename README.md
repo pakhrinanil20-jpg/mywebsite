@@ -10,10 +10,9 @@
 
 <body>
 
-<h1> Welcome to My Cloud Website</h1>
-<p>I am Anil Tamang currently studing in Kyungdong University,South Korea.</p>
-
-<p>This website is hosted on cloud.</p>
+<h1> Hello! I am Anil Tamang
+Welcome to my cloud Website</h1>
+<p>Kyungdong University,SOuth Korea</p>
 
 </body>
 
